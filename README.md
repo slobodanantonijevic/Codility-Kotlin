@@ -52,6 +52,6 @@ If you have any suggestions, questions or a need for further explanation of solu
 1. [EquiLeader](https://github.com/slobodanantonijevic/Codility-Kotlin/blob/main/src/Lesson8Leader/EquiLeader.kt)
 2. [Dominator](https://github.com/slobodanantonijevic/Codility-Kotlin/blob/main/src/Lesson8Leader/Dominator.kt)
 
-[**Lesson 9 - Maximum slice problem**]() (in progress)
-1. [MaxSliceSum]()
-2. [MaxProfit]()
+[**Lesson 9 - Maximum slice problem**](https://github.com/slobodanantonijevic/Codility-Kotlin/tree/main/src/Lesson9MaximumSliceProblem) (in progress)
+1. [MaxSliceSum](https://github.com/slobodanantonijevic/Codility-Kotlin/blob/main/src/Lesson9MaximumSliceProblem/MaxSliceSum.kt)
+2. [MaxProfit](https://github.com/slobodanantonijevic/Codility-Kotlin/blob/main/src/Lesson9MaximumSliceProblem/MaxProfit.kt)
